@@ -19,5 +19,5 @@ void loop() {
   Serial.println(porcentaje);
 
 
-  delay(1000);
+  delay(100);
 }
